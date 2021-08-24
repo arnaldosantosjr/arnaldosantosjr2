@@ -1,7 +1,7 @@
-![image](https://user-images.githubusercontent.com/83240835/130526999-6b319cae-538f-46d9-b605-31bcf430ddda.png)
+🙋🏻‍♂
  Olá, Mundo! Eu sou o Arnaldo Santos.
 
-![image](https://user-images.githubusercontent.com/83240835/130526630-717f5e7c-86b3-472f-a015-4c1e8d48dd4a.png)
+👨🏻‍💻
  Atualmente estou trabalhando com front-end.
  
   <div>
