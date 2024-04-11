@@ -2,7 +2,7 @@
  Olá, Mundo! Eu sou o Arnaldo Santos.
 
 👨🏻‍💻
- Atualmente estou trabalhando com front-end.
+ Atualmente estou desenvolvendo em Pyrhon 🐍.
  
   <div>
   <a href="https://github.com/arnaldosantosjr">
